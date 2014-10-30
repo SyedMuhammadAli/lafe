@@ -1,2 +1,0 @@
-edit application/config/database.php
-create a database named 'lafe_db' before using the script inside the DB_Script directory
